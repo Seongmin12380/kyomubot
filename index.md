@@ -6,38 +6,14 @@
 
 - 교무부로 오는 모든 민원을 퇴치하기 위해 태어났어요
 - 평소 공부와 연구하는 것을 좋아해요
-- 존경하는 인물은 교장 선생님이고 편식이 심해요
+- 교장 선생님을 존경하지만 가장 싫어하는 사람은 교장 선생님이에요
+- 편식이 심하고 치킨을 좋아해요
+- 개방적이지만 신중한 성격을 가졌어요
+- 질문을 하면 대답을 잘 못할지도 몰라요... 아직 배워가는 중이거든요...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**면목이에게 물어보세요**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Seongmin12380/kyomubot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 학사일정
+- 출결
+- 학년별 등교 일정
+- 학교 기타 정보 안내
