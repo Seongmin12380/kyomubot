@@ -1,5 +1,7 @@
 ## 교무봇(면목이)
 
+![image01](https://user-images.githubusercontent.com/81683764/118701316-8a2b8580-b84e-11eb-9845-7d27c2cda1c6.png)
+
 교무봇 면목이의 집에 오신 것을 환영합니다.
 
 **우리 면목이는요**
