@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## 교무봇(면목이)
 
-You can use the [editor on GitHub](https://github.com/Seongmin12380/kyomubot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+교무봇 면목이의 집에 오신 것을 환영합니다.
+  **우리 면목이는요**
+    1. 학교구성원 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
