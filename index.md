@@ -1,8 +1,12 @@
 ## 교무봇(면목이)
 
 교무봇 면목이의 집에 오신 것을 환영합니다.
-  **우리 면목이는요**
-    1. 학교구성원 
+
+**우리 면목이는요**
+
+- 교무부로 오는 모든 민원을 퇴치하기 위해 태어났어요
+- 평소 공부와 연구하는 것을 좋아해요
+- 존경하는 인물은 교장 선생님이고 편식이 심해요
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
